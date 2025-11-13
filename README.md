@@ -28,7 +28,7 @@ The goal is to achieve pixel-perfect design and buttery-smooth interactions.
 | **Frontend Framework** | [React](https://react.dev/) |
 | **Build Tool** | [Vite](https://vitejs.dev/) |
 | **Styling** | [Tailwind CSS](https://tailwindcss.com/) |
-| **Animation** | (Add if used: Framer Motion / GSAP / Locomotive Scroll) |
+| **Animation** |  ( GSAP and  Locomotive Scroll ) |
 | **Linting** | ESLint |
 
 ---
